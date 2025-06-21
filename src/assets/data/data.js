@@ -99,7 +99,7 @@ export const data = {
 
     audio: './src/assets/audio/x.mp4',
 
-    api: 'https://script.google.com/macros/s/AKfycbwEc7FF6KwTdoLSxpbmddG24O7lK6hlSBH4m6nwdKRwGubEKeGazJm2fSkhFyYN_R9Gqw/exec',
+    api: 'https://script.google.com/macros/s/AKfycbxZKz2S3k2nwg9BTn4De3JvnpWnCxR7NCQsi5jGstESQqK5T_G08DD5zk4bQuNU34cq3w/exec',
 
     navbar: [
         {
