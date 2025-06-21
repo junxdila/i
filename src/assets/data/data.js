@@ -2,20 +2,20 @@ export const data = {
     bride: {
         L: {
             id: 1,
-            name: 'Junaidi',
-            child: 'Putra Pertama dari',
-            father: 'Muta’am (Alm)',
-            mother: 'Hotimah',
-            ig: '<a href="https://instagram.com/colexionjun/"><i class="bx bxl-instagram"></i>@colexionjun</a>',
+            name: 'Mohammad Suhud',
+            child: 'Putra dari',
+            father: 'H. Bunali (alm)',
+            mother: 'HJ. Busari (almh)',
+            ig: '<a href="https://instagram.com/susxhbangun/"><i class="bx bxl-instagram"></i>@susxhbangun</a>',
             image: './src/assets/images/cowo.png'
         },
         P: {
             id: 2,
-            name: 'Fadilah',
-            child: 'Putri Kedua dari',
-            father: 'H. Sukri',
-            mother: 'HJ. Supriyati',
-            ig: '<a href="https://instagram.com/didil_fadil_/"><i class="bx bxl-instagram"></i>@didil_fadil_</a>',
+            name: 'Nurul Hikmah',
+            child: 'Putri dari',
+            father: 'M. Syafiuddin (alm)',
+            mother: 'Romlah',
+            ig: '<a href="https://instagram.com/_its.mhsyaff/"><i class="bx bxl-instagram"></i>@_its.mhsyaff</a>',
             image: './src/assets/images/cewe.png'
         },
 
@@ -24,10 +24,10 @@ export const data = {
 
     time: {
         marriage: {
-            year: '2025',
-            month: 'Juli',
-            date: '05',
-            day: 'Sabtu',
+            year: '2026',
+            month: 'April',
+            date: '09',
+            day: 'Rabu',
             hours: {
                 start: '08.00',
                 finish: 'Selesai'
@@ -35,11 +35,11 @@ export const data = {
         },
         reception: {
             year: '2025',
-            month: 'Juli',
-            date: '05',
-            day: 'Sabtu',
+            month: 'April',
+            date: '09',
+            day: 'Rabu',
             hours: {
-                start: '08.00',
+                start: '08.30',
                 finish: 'Selesai'
             }
         },
@@ -47,7 +47,7 @@ export const data = {
     },
 
     link: {
-        calendar: 'https://calendar.app.google/VeWUC2n7nJV9XZ1y7',
+        calendar: 'https://calendar.app.google/9VV7UeKCnJPwbfJM6',
         map: ''
     },
 
@@ -85,21 +85,21 @@ export const data = {
     bank: [
         {
             id: 1,
-            name: 'Fadilah',
+            name: 'Mohammad Suhud',
             icon: './src/assets/images/bca.png',
-            rekening: '1851871352'
+            rekening: '0882547866'
         },
         {
             id: 2,
-            name: 'Junaidi',
-            icon: './src/assets/images/bri.png',
-            rekening: '5006101170439501'
+            name: 'Nurul Hikmah',
+            icon: './src/assets/images/bca.png',
+            rekening: '5905049469'
         },
     ],
 
     audio: './src/assets/audio/x.mp4',
 
-    api: 'https://script.google.com/macros/s/AKfycbxNT7Md1YFctcAxHve6tgyMgcCcQPu0mL23gVPBmA0qfLv0EKGC4kpZLBMxjMRzS7NmbA/exec',
+    api: 'https://script.google.com/macros/s/AKfycbwEc7FF6KwTdoLSxpbmddG24O7lK6hlSBH4m6nwdKRwGubEKeGazJm2fSkhFyYN_R9Gqw/exec',
 
     navbar: [
         {
