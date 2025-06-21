@@ -23,6 +23,16 @@ export const data = {
     },
 
     time: {
+        marriage: {
+            year: '2026',
+            month: 'April',
+            date: '09',
+            day: 'Rabu',
+            hours: {
+                start: '08.00',
+                finish: 'Selesai'
+            }
+        },
         reception: {
             year: '2025',
             month: 'Juli',
