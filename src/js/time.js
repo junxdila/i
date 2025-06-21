@@ -12,7 +12,7 @@ export const time = () => {
          Pukul ${details.hours.start} WIB sd ${details.hours.finish}</p>`
     );
 
-    marriageDiv.innerHTML = createTimeListItem('Mengantar Mempelai Pria', data.time.marriage);
+    //marriageDiv.innerHTML = createTimeListItem('Mengantar Mempelai Pria', data.time.marriage);
 
     
     
