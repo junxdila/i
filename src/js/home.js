@@ -10,7 +10,7 @@ export const home = () => {
         return `
             <img src="${coupleImage}" alt="couple animation">
             <figcaption>
-                ${brideLName(' ')[1]} x ${bridePName(' ')[1]}
+                ${brideLName.split(' ')[0]} x ${bridePName.split(' ')[0]}
             </figcaption>`;
     };
 
