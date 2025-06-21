@@ -2,19 +2,19 @@ export const data = {
     bride: {
         L: {
             id: 1,
-            name: 'Mohammad Suhud',
-            child: 'Putra dari',
-            father: 'H. Bunali (alm)',
-            mother: 'HJ. Busari (almh)',
+            name: 'Junaidi',
+            child: 'Putra pertama dari',
+            father: 'Muta’am (Alm)',
+            mother: 'Hotimah',
             ig: '<a href="https://instagram.com/susxhbangun/"><i class="bx bxl-instagram"></i>@susxhbangun</a>',
             image: './src/assets/images/cowo.png'
         },
         P: {
             id: 2,
-            name: 'Nurul Hikmah',
-            child: 'Putri dari',
-            father: 'M. Syafiuddin (alm)',
-            mother: 'Romlah',
+            name: 'Fadilah',
+            child: 'Putri kedua dari',
+            father: 'H. Sukri',
+            mother: 'HJ. Supriyati',
             ig: '<a href="https://instagram.com/_its.mhsyaff/"><i class="bx bxl-instagram"></i>@_its.mhsyaff</a>',
             image: './src/assets/images/cewe.png'
         },
@@ -24,22 +24,22 @@ export const data = {
 
     time: {
         marriage: {
-            year: '2026',
-            month: 'April',
-            date: '09',
+            year: '2025',
+            month: 'Juni',
+            date: '18',
             day: 'Rabu',
             hours: {
-                start: '08.00',
+                start: '18.00',
                 finish: 'Selesai'
             }
         },
         reception: {
             year: '2025',
-            month: 'April',
-            date: '09',
-            day: 'Rabu',
+            month: 'Juli',
+            date: '05',
+            day: 'Sabtu',
             hours: {
-                start: '08.30',
+                start: '08.00',
                 finish: 'Selesai'
             }
         },
@@ -47,8 +47,8 @@ export const data = {
     },
 
     link: {
-        calendar: 'https://calendar.app.google/9VV7UeKCnJPwbfJM6',
-        map: ''
+        calendar: 'https://calendar.app.google/VeWUC2n7nJV9XZ1y7',
+        map: 'https://maps.app.goo.gl/x2cbJZPCo4j56GE18'
     },
 
     galeri: [
@@ -85,15 +85,15 @@ export const data = {
     bank: [
         {
             id: 1,
-            name: 'Mohammad Suhud',
+            name: 'Fadilah',
             icon: './src/assets/images/bca.png',
-            rekening: '0882547866'
+            rekening: '1851871352'
         },
         {
             id: 2,
-            name: 'Nurul Hikmah',
-            icon: './src/assets/images/bca.png',
-            rekening: '5905049469'
+            name: 'Junaidi',
+            icon: './src/assets/images/bri.png',
+            rekening: '006101170439501'
         },
     ],
 
