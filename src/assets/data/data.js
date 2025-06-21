@@ -2,19 +2,19 @@ export const data = {
     bride: {
         L: {
             id: 1,
-            name: 'Junaidi',
-            child: 'Putra pertama dari',
-            father: 'Muta’am (Alm)',
-            mother: 'Hotimah',
+            name: 'Mohammad Suhud',
+            child: 'Putra dari',
+            father: 'H. Bunali (alm)',
+            mother: 'HJ. Busari (almh)',
             ig: '<a href="https://instagram.com/susxhbangun/"><i class="bx bxl-instagram"></i>@susxhbangun</a>',
             image: './src/assets/images/cowo.png'
         },
         P: {
             id: 2,
-            name: 'Fadilah',
-            child: 'Putri kedua dari',
-            father: 'H. Sukri',
-            mother: 'HJ. Supriyati',
+            name: 'Nurul Hikmah',
+            child: 'Putri dari',
+            father: 'M. Syafiuddin (alm)',
+            mother: 'Romlah',
             ig: '<a href="https://instagram.com/_its.mhsyaff/"><i class="bx bxl-instagram"></i>@_its.mhsyaff</a>',
             image: './src/assets/images/cewe.png'
         },
@@ -24,31 +24,31 @@ export const data = {
 
     time: {
         marriage: {
-            year: '2025',
-            month: 'Juni',
-            date: '18',
+            year: '2026',
+            month: 'April',
+            date: '09',
             day: 'Rabu',
-            hours: {
-                start: '18.00',
-                finish: 'Selesai'
-            }
-        },
-        reception: {
-            year: '2025',
-            month: 'Juli',
-            date: '05',
-            day: 'Sabtu',
             hours: {
                 start: '08.00',
                 finish: 'Selesai'
             }
         },
-        address: 'Dusun Duwak Assen'
+        reception: {
+            year: '2025',
+            month: 'April',
+            date: '09',
+            day: 'Rabu',
+            hours: {
+                start: '08.30',
+                finish: 'Selesai'
+            }
+        },
+        address: ''
     },
 
     link: {
-        calendar: 'https://calendar.app.google/VeWUC2n7nJV9XZ1y7',
-        map: 'https://maps.app.goo.gl/x2cbJZPCo4j56GE18'
+        calendar: 'https://calendar.app.google/9VV7UeKCnJPwbfJM6',
+        map: ''
     },
 
     galeri: [
@@ -85,15 +85,15 @@ export const data = {
     bank: [
         {
             id: 1,
-            name: 'Fadilah',
+            name: 'Mohammad Suhud',
             icon: './src/assets/images/bca.png',
-            rekening: '1851871352'
+            rekening: '0882547866'
         },
         {
             id: 2,
-            name: 'Junaidi',
-            icon: './src/assets/images/bri.png',
-            rekening: '006101170439501'
+            name: 'Nurul Hikmah',
+            icon: './src/assets/images/bca.png',
+            rekening: '5905049469'
         },
     ],
 
