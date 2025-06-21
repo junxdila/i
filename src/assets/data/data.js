@@ -43,7 +43,7 @@ export const data = {
                 finish: 'Selesai'
             }
         },
-        address: ''
+        address: 'Dusun Duwak Assen'
     },
 
     link: {
