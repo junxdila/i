@@ -64,7 +64,7 @@ export const wishas = () => {
         }
 
         return ` <li data-aos="zoom-in" data-aos-duration="1000">
-                     <div style="background-color: ${data.color}">${data.name.charAt(0).toUpperCase()}</div>
+                     <div style="background-color: ${data.color}">${data.name.charAt(0).toUpperCase(1)}</div>
                      <div>
                          <h4>${name}</h4>
                          <p>${date} <br>${data.status}</p>
