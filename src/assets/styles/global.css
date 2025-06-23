@@ -96,3 +96,6 @@ p {
   width: 40%;
   height: auto;
 }
+a {
+  text-decoration: none;
+}
