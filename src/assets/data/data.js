@@ -79,6 +79,10 @@ export const data = {
                 {
             id: 7,
             image: './src/assets/images/7.jpg'
+        },
+                {
+            id: 8,
+            image: './src/assets/images/8.jpg'
         }
     ],
 
