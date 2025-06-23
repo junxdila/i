@@ -91,3 +91,8 @@ p {
         transform: translateY(0.8rem);
     }
 }
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
