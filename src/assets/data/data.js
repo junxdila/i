@@ -15,7 +15,7 @@ export const data = {
             child: 'Putri Kedua',
             father: 'H. Sukri',
             mother: 'HJ. Supriyati',
-            ig: '<a href="https://instagram.com/didil_fadil_/" style="text-decoration:none;"><b>@didil_fadil_</b></a>',
+            ig: '<i class="fa fa-instagram" aria-hidden="true"></i><a href="https://instagram.com/didil_fadil_/" style="text-decoration:none;"><b>@didil_fadil_</b></a>',
             image: './src/assets/images/cewe.png'
         },
 
