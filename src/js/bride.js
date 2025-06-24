@@ -9,7 +9,7 @@ export const bride = () => {
                    <img src=${data.image} alt="${data.name} animation">
                    <figcaption>${data.name}</figcaption>
               </figure>
-              <p><i class="bxl bx-instagram-alt" /> ${data.ig}<br><br>${data.child}<br>dari<br>Bapak ${data.father} & Ibu ${data.mother}</p>
+              <p>${data.ig}<br><br>${data.child}<br>dari<br>Bapak ${data.father} & Ibu ${data.mother}</p>
               <span style="display: ${data.id === 2 ? 'none' : 'block'}">&</span>
         </li>`
     )
