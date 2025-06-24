@@ -6,7 +6,7 @@ export const data = {
             child: 'Putra Pertama',
             father: 'Mutaam (Alm)',
             mother: 'Hotimah ',
-            ig: '<a href="https://instagram.com/colexionjun/" style="text-decoration:none;"><b>@colexionjun</b></a>',
+            ig: '<img src="https://img.icons8.com/?size=100&id=xQDoK3WxHJ8O&format=png&color=000000" alt="Computer man" style="width:48px;height:48px;"><a href="https://instagram.com/colexionjun/" style="text-decoration:none;"><b>@colexionjun</b></a>',
             image: './src/assets/images/cowo.png'
         },
         P: {
