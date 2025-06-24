@@ -6,7 +6,10 @@ export const data = {
             child: 'Putra Pertama',
             father: 'Mutaam (Alm)',
             mother: 'Hotimah ',
-            ig: '<i class="fa fa-instagram" aria-hidden="true"></i><a href="https://instagram.com/colexionjun/" style="text-decoration:none;"><b>@colexionjun</b></a>',
+            ig: '<a href="https://instagram.com/colexionjun/" style="text-decoration:none;" target="_blank" aria-label="Lihat google maps" data-aos="zoom-in"
+           data-aos-duration="1000">
+            <i class="fa fa-instagram" aria-hidden="true"></i><span><b>@colexionjun</b></span>
+        </a><i class="fa fa-instagram" aria-hidden="true"></i><a href="https://instagram.com/colexionjun/" style="text-decoration:none;"><b>@colexionjun</b></a>',
             image: './src/assets/images/cowo.png'
         },
         P: {
